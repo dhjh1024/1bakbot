@@ -7,7 +7,7 @@ import telegram
 
 # Telegram Setting
 chat = telegram.Bot(token = "1802361644:AAENu52Ui1cqgSMXvtiHkCS2qwzTl1hYTRI")
-chat_id = "-1001512203758"
+chat_id = "374352235"
 #chat_id = "1510104965"
 # text = "abcd"
 # chat.sendMessage(chat_id = chat_id, text=text)
